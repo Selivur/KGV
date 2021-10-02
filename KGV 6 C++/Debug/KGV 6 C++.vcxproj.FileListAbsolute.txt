@@ -1,0 +1,2 @@
+D:\Programing\VS\KGV\KGV 6 C++\Debug\KGV 6 C++.exe
+D:\Programing\VS\KGV\KGV 6 C++\Debug\KGV 6 C++.pdb

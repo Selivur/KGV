@@ -1,0 +1,2 @@
+D:\Programing\VS\KGV\KGV 4.1\Debug\KGV 4.1.exe
+D:\Programing\VS\KGV\KGV 4.1\Debug\KGV 4.1.pdb

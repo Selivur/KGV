@@ -1,0 +1,4 @@
+C:\Users\si010\source\repos\КГВ 3 ласт\Debug\КГВ 3 ласт.exe
+C:\Users\si010\source\repos\КГВ 3 ласт\Debug\КГВ 3 ласт.pdb
+D:\Programing\VS\KGV\КГВ 3 ласт\Debug\КГВ 3 ласт.exe
+D:\Programing\VS\KGV\КГВ 3 ласт\Debug\КГВ 3 ласт.pdb

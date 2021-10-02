@@ -1,0 +1,8 @@
+﻿  Lab 9.cpp
+D:\Programing\VS\KGV\Lab 9\utils.h(211,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\utils.h(211,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\utils.h(211,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\utils.h(219,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\utils.h(219,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\utils.h(219,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programing\VS\KGV\Lab 9\Lab 9.cpp(204,48): error C2065: GLFW_TRUE: необъявленный идентификатор

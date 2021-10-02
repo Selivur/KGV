@@ -1,0 +1,4 @@
+﻿  КГВ 3 ласт.cpp
+C:\Users\si010\source\repos\КГВ 3 ласт\КГВ 3 ласт.cpp(17,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\si010\source\repos\КГВ 3 ласт\КГВ 3 ласт.cpp(17,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  КГВ 3 ласт.vcxproj -> C:\Users\si010\source\repos\КГВ 3 ласт\Debug\КГВ 3 ласт.exe

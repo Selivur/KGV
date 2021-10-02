@@ -1,0 +1,6 @@
+﻿  CGV 8.cpp
+D:\Programing\VS\KGV\CGV 8\CGV 8.cpp(142,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\Programing\VS\KGV\CGV 8\CGV 8.cpp(145,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\Programing\VS\KGV\CGV 8\CGV 8.cpp(148,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\Programing\VS\KGV\CGV 8\CGV 8.cpp(151,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  CGV 8.vcxproj -> D:\Programing\VS\KGV\CGV 8\Debug\CGV 8.exe

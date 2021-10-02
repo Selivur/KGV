@@ -1,0 +1,5 @@
+﻿  CGV 7.cpp
+D:\Programing\VS\KGV\CGV 7\CGV 7.cpp(37,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Programing\VS\KGV\CGV 7\CGV 7.cpp(40,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Programing\VS\KGV\CGV 7\CGV 7.cpp(43,38): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  CGV 7.vcxproj -> D:\Programing\VS\KGV\CGV 7\Debug\CGV 7.exe

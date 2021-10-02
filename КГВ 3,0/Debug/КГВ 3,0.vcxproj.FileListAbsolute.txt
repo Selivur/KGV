@@ -1,0 +1,4 @@
+C:\Users\si010\source\repos\КГВ 3,0\Debug\КГВ 3,0.exe
+C:\Users\si010\source\repos\КГВ 3,0\Debug\КГВ 3,0.pdb
+D:\Programing\VS\KGV\КГВ 3,0\Debug\КГВ 3,0.exe
+D:\Programing\VS\KGV\КГВ 3,0\Debug\КГВ 3,0.pdb

@@ -1,0 +1,9 @@
+﻿  KGV 4.1.cpp
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(8,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(9,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(66,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(89,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(94,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(97,22): warning C4305: -=: усечение из "double" в "float"
+D:\Programing\VS\KGV\KGV 4.1\KGV 4.1.cpp(102,22): warning C4305: +=: усечение из "double" в "float"
+  KGV 4.1.vcxproj -> D:\Programing\VS\KGV\KGV 4.1\Debug\KGV 4.1.exe

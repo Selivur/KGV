@@ -1,0 +1,7 @@
+﻿  KGV 5.cpp
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(7,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(7,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(7,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(13,8): warning C4552: "-": результат выражения не используется
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(38,45): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Programing\VS\KGV\KGV 5\KGV 5.cpp(67,10): error C3861: auxDIBImageLoad: идентификатор не найден

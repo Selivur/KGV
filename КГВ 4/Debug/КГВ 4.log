@@ -1,0 +1,7 @@
+﻿  КГВ 4.cpp
+D:\Programing\VS\KGV\КГВ 4\КГВ 4.cpp(27,18): warning C4305: -=: усечение из "double" в "float"
+D:\Programing\VS\KGV\КГВ 4\КГВ 4.cpp(35,18): warning C4305: +=: усечение из "double" в "float"
+D:\Programing\VS\KGV\КГВ 4\КГВ 4.cpp(48,18): warning C4305: +=: усечение из "double" в "float"
+D:\Programing\VS\KGV\КГВ 4\КГВ 4.cpp(52,18): warning C4305: -=: усечение из "double" в "float"
+D:\Programing\VS\KGV\КГВ 4\КГВ 4.cpp(138,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  КГВ 4.vcxproj -> D:\Programing\VS\KGV\КГВ 4\Debug\КГВ 4.exe
